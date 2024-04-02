@@ -10,3 +10,5 @@ to run in localhost
 ```
 npm run dev
 ```
+
+last update 26.8 video
